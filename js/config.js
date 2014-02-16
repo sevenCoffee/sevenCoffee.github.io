@@ -35,3 +35,5 @@ jQuery(function() {
 		detach: false
 	});
 });
+
+$('.myIframe').css('width', $(window).width()+'px');
